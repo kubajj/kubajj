@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 my name is Kuba and I am:
 
-<!--
-**kubajj/kubajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### a final-year student 🎓 of Computing Science at the University of Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿.
 
-Here are some ideas to get you started:
+#### an OpenStack contributor
+I mostly contribute to [openstack/ironic]{https://opendev.org/openstack/ironic} 🐻.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my notable contributions with relevant changes:
+- Safeguards for disk cleaning - Changes [850861]{https://review.opendev.org/c/openstack/ironic-python-agent/+/850861} and [852999]{https://review.opendev.org/c/openstack/ironic-python-agent/+/852999}
+- Inventory API for Ironic - Changes [862569]{https://review.opendev.org/c/openstack/ironic/+/862569}, [866876]{https://review.opendev.org/c/openstack/ironic/+/866876} and [871394]{https://review.opendev.org/c/openstack/ironic/+/871394}
+- Introduce default kernel/ramdisk by architecture - Change [890819]{https://review.opendev.org/c/openstack/ironic/+/890819}
+
+#### an IT Consultant at Peak Computing Scotland
+I mostly design tools and scripts for scientists 🧪.
+
+### 📫 How to reach me:
+📨 - [jakubjjelinek@gmail.com]{jakubjjelinek@gmail.com}
+LinkedIn - [jakub-jelinek-458062195]{https://www.linkedin.com/in/jakub-jelinek-458062195/}
